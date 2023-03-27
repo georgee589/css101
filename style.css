@@ -1,0 +1,40 @@
+p {
+    color: rgb(50, 51, 72);
+}
+
+body{
+    background-color: rgb(250, 248, 247);
+}
+h2{
+    color: lightcoral;
+}
+
+#test1 {
+    color: red;
+}
+
+#test2 {
+    color: blue;
+}
+
+.purple{
+    color: purple;
+}
+
+li.upper{
+    text-transform: uppercase;
+}
+
+.div1{
+width: 300px;
+height: 100px;
+border: 1px solid blue;
+}
+
+.div2{
+width: 300px;
+height: 100px;
+padding: 50px;
+border:1px solid red;
+box-sizing: border-box;
+}
